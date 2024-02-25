@@ -2,7 +2,7 @@
 
 import java.util.ArrayList;
 import java.util.Scanner;
-public class p1_22{
+public class engine{
     public static void main(String[] args) {
 
         // get the data into ArrayList of Integers
@@ -13,7 +13,7 @@ public class p1_22{
             data.add(Integer.parseInt(line));
         }
 
-
+        
 
     }
 }

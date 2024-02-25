@@ -4,7 +4,7 @@ import java.util.ArrayList;
 import java.util.Scanner;
 import java.util.Arrays;
 
-public class p2_22 {
+public class lottery {
     public static void main(String[] args) {
         
         // read data into a list of Strings
