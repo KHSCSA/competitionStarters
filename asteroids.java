@@ -13,7 +13,7 @@ public class asteroids {
         // probably a better way to get the data, but we know how many so....
     
 
-    // close main
+    } // close main
 
 
 } // close class
