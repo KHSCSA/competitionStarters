@@ -1,3 +1,5 @@
+// https://codingquest.io/problem/18
+
 import java.util.Scanner;
 
 public class inventory {
