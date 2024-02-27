@@ -1,3 +1,5 @@
+// https://codingquest.io/problem/23
+
 import java.util.Scanner;
 import java.util.ArrayList;
 
